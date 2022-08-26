@@ -91,7 +91,7 @@ h6 {
 /*--------------------*/
 
 body {
-    background: url(../img/layers.png) 60% 106px/1190px 1064px no-repeat, #e8e8e8;
+    background: url(img/layers.png) 60% 106px/1190px 1064px no-repeat, #e8e8e8;
     font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -132,7 +132,7 @@ header {
     width: 100%;
     height: 561px;
     margin-bottom: 85px;
-    background: url(../img/central_image.png) 0 0/cover no-repeat;
+    background: url(img/central_image.png) 0 0/cover no-repeat;
     border: 10px solid #ffffff;
     box-shadow: 0px 15px 65px 0px rgba(15,16,16,0.15);
 }
@@ -154,7 +154,7 @@ header {
     font-size: 20px;
 }
 .list li {
-    background: url(/img/check_icon_37.png) 0 50%/contain no-repeat;
+    background: url(img/check_icon_37.png) 0 50%/contain no-repeat;
     display: inline-block;
     padding-left: 38px;
     margin-left: 40px;
@@ -187,7 +187,7 @@ header {
     padding-left: 34px;
 }
 .list li:hover {
-    background: url(/img/check_icon_red.png) 0 50%/contain no-repeat;
+    background: url(img/check_icon_red.png) 0 50%/contain no-repeat;
     color: #d55a5a;
 }
 .list li:nth-child(4) span:hover {
@@ -203,7 +203,7 @@ header {
     margin-top: 60px;
     margin-left: 40px;
     box-shadow: 0px 6px 40px 0px rgba(128,183,179,0.54);
-    background: url(/img/shape_2_9.png) 151px 15px no-repeat, #80b7b3;
+    background: url(img/shape_2_9.png) 151px 15px no-repeat, #80b7b3;
     border-radius: 22px;
 
     text-align: left;
